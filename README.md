@@ -62,4 +62,4 @@ The full set of queries is in the analysis file. Please
 
 
 ---
-*Part of my data analytics portfolio — feedback welcome.*
+*Part of my data analytics portfolio - feedback welcome.*
